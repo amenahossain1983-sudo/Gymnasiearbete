@@ -65,3 +65,5 @@ $title = "Frisyr - Klippdig.Nu";
     </footer>
 </body>
 </html>
+
+
