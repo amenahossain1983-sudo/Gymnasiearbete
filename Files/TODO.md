@@ -7,3 +7,8 @@ KlippDig.Nu
 
 -> Fixa filstruktur
 -> Gör så att sidan det går tillbaka till det förra utseendet.
+
+(16/11) - Dagens agenda : 
+
+-> Fixa filerna, gör så att de funkar normalt
+
