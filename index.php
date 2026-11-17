@@ -12,7 +12,7 @@ $title = "Klippdig.Nu";
 <body>
     <header class="topbar">
         <div class="container nav">
-            <div class="brand">Klippdig.Nu</div>
+            <a href="index.php" class="brand">Klippdig.Nu</a>
             <nav>
                 <a href="index.php" class="active">Index</a>
                 <a href="frisor.php">Frisör</a>

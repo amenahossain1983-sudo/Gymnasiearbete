@@ -11,4 +11,9 @@ KlippDig.Nu
 (16/11) - Dagens agenda : 
 
 -> Fixa filerna, gör så att de funkar normalt
+-> Klart
+
+(17/11) : 
+
+->
 
