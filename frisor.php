@@ -44,7 +44,7 @@ $title = "Frisör - Klippdig.Nu";
             <div>
                 <h3>Klippdig.Nu</h3>
                 <p>Din salong för skönhet och stil.</p>
-            </div>
+</div>
             <div>
                 <h4>Kontakt</h4>
                 <p>info@klippdig.nu</p>
