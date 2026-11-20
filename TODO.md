@@ -6,6 +6,7 @@ KlippDig.Nu
 
 -> Fyll på gymnasierapport en del
 
-(19/11) : 
+(20/11) : 
 
--> 
+-> Inför nästa gång ska du se till skriva klart en del av rapporten
+-> Fixa layout och css !
